@@ -5,6 +5,7 @@
         //Main method
         static void Main(string[] args)
         {
+
             try
             {
                 StartSequence();
