@@ -1,0 +1,15 @@
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab01-b\Lab01-b\bin\Debug\net7.0\Lab01-b.exe
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab01-b\Lab01-b\bin\Debug\net7.0\Lab01-b.deps.json
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab01-b\Lab01-b\bin\Debug\net7.0\Lab01-b.runtimeconfig.json
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab01-b\Lab01-b\bin\Debug\net7.0\Lab01-b.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab01-b\Lab01-b\bin\Debug\net7.0\Lab01-b.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab01-b\Lab01-b\obj\Debug\net7.0\Lab01-b.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab01-b\Lab01-b\obj\Debug\net7.0\Lab01-b.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab01-b\Lab01-b\obj\Debug\net7.0\Lab01-b.AssemblyInfoInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab01-b\Lab01-b\obj\Debug\net7.0\Lab01-b.AssemblyInfo.cs
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab01-b\Lab01-b\obj\Debug\net7.0\Lab01-b.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab01-b\Lab01-b\obj\Debug\net7.0\Lab01-b.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab01-b\Lab01-b\obj\Debug\net7.0\refint\Lab01-b.dll
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab01-b\Lab01-b\obj\Debug\net7.0\Lab01-b.pdb
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab01-b\Lab01-b\obj\Debug\net7.0\Lab01-b.genruntimeconfig.cache
+C:\Users\Lenovo\source\repos\MhamadBelal\Lab01-b\Lab01-b\obj\Debug\net7.0\ref\Lab01-b.dll
